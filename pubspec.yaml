@@ -14,11 +14,14 @@ dependencies:
   quiver: ^3.0.1+1
   uuid: ^3.0.7
   dartxx: 
-    path: /Users/ericm/aesthetika/checkout/ericmartineau/dartxx
-  flexidate: 
-    path: /Users/ericm/aesthetika/checkout/ericmartineau/flexidate
+    git:
+      url: https://github.com/kodyfanz/dartxx
+      ref: master # commit hash/ branch
+  flexidate: ^0.8.0+3
   logging_config: 
-    path: /Users/ericm/aesthetika/checkout/SunnyApp/logging_config
+    git:
+      url: https://github.com/kodyfanz/logging_config
+      ref: master # commit hash/ branch
   flutter: 
     sdk: flutter
 dev_dependencies: 
