@@ -5,7 +5,7 @@ description: A Flutter plugin to retrieve, create and save contacts and contact-
 maintainer: Eric Martineau
 environment: 
   sdk: ">=2.12.0 <=3.3.1"
-  flutter: '>=1.10.0'
+  flutter: ">=1.17.0"
 dependencies: 
   collection: ^1.17.2
   equatable: ^2.0.5
